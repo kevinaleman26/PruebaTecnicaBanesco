@@ -73,12 +73,15 @@ cd python
 
 ```
 WEATHER_API_HOST = "https://api.openweathermap.org/data/3.0/onecall"
-WEATHER_API_KEY = ""
+WEATHER_API_KEY = "6d3845d7ba9032d63278d8eb8be33f07"
 USER_API_URL = "https://jsonplaceholder.typicode.com/users"
 ```
 
 Se debe crear un archivo llamado ".env". Se debe colocar en la carpeta del
 proyecto python
+
+Se dejara el API por motivos de prueba. El mismo sera desactivado el dia viernes
+de la semana de entrega.
 
 #### Instalar dependencia
 
