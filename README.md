@@ -69,6 +69,17 @@ archivo: "integration_output.json"
 cd python
 ```
 
+#### Variables de entorno
+
+```
+WEATHER_API_HOST = "https://api.openweathermap.org/data/3.0/onecall"
+WEATHER_API_KEY = ""
+USER_API_URL = "https://jsonplaceholder.typicode.com/users"
+```
+
+Se debe crear un archivo llamado ".env". Se debe colocar en la carpeta del
+proyecto python
+
 #### Instalar dependencia
 
 ```
