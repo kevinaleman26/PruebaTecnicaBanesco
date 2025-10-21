@@ -44,5 +44,5 @@ if __name__ == "__main__":
         sale_usr = SalesUsuarios(usr, SaleSummary(trx_list))
         response.append(asdict(sale_usr)) 
 
-    with open("python/integration_output.json", "w", encoding="utf-8") as f:
+    with open("integration_output.json", "w", encoding="utf-8") as f:
         json.dump(response, f, indent=4, ensure_ascii=False)

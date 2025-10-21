@@ -1,0 +1,142 @@
+[
+    {
+        "userId": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "weather": {
+            "main": "Clouds",
+            "celsius": 12.79000000000002
+        },
+        "sale_summary": {
+            "total_units_sold": 183,
+            "total_revenue": 438.37
+        }
+    },
+    {
+        "userId": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "weather": {
+            "main": "Clouds",
+            "celsius": 6.350000000000023
+        },
+        "sale_summary": {
+            "total_units_sold": 213,
+            "total_revenue": 1749.8700000000001
+        }
+    },
+    {
+        "userId": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "weather": {
+            "main": "Clouds",
+            "celsius": -5.769999999999982
+        },
+        "sale_summary": {
+            "total_units_sold": 125,
+            "total_revenue": 536.75
+        }
+    },
+    {
+        "userId": 4,
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "weather": {
+            "main": "Clear",
+            "celsius": 25.03000000000003
+        },
+        "sale_summary": {
+            "total_units_sold": 281,
+            "total_revenue": 2812.19
+        }
+    },
+    {
+        "userId": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "weather": {
+            "main": "Rain",
+            "celsius": 16.610000000000014
+        },
+        "sale_summary": {
+            "total_units_sold": 396,
+            "total_revenue": 2363.04
+        }
+    },
+    {
+        "userId": 6,
+        "name": "Mrs. Dennis Schulist",
+        "username": "Leopoldo_Corkery",
+        "email": "Karley_Dach@jasper.info",
+        "weather": {
+            "main": "Snow",
+            "celsius": -5.560000000000002
+        },
+        "sale_summary": {
+            "total_units_sold": 193,
+            "total_revenue": 3109.44
+        }
+    },
+    {
+        "userId": 7,
+        "name": "Kurtis Weissnat",
+        "username": "Elwyn.Skiles",
+        "email": "Telly.Hoeger@billy.biz",
+        "weather": {
+            "main": "Clear",
+            "celsius": 22.620000000000005
+        },
+        "sale_summary": {
+            "total_units_sold": 173,
+            "total_revenue": 1387.77
+        }
+    },
+    {
+        "userId": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "username": "Maxime_Nienow",
+        "email": "Sherwood@rosamond.me",
+        "weather": {
+            "main": "Rain",
+            "celsius": 24.08000000000004
+        },
+        "sale_summary": {
+            "total_units_sold": 170,
+            "total_revenue": 3102.3
+        }
+    },
+    {
+        "userId": 9,
+        "name": "Glenna Reichert",
+        "username": "Delphine",
+        "email": "Chaim_McDermott@dana.io",
+        "weather": {
+            "main": "Clouds",
+            "celsius": 26.420000000000016
+        },
+        "sale_summary": {
+            "total_units_sold": 156,
+            "total_revenue": 1641.43
+        }
+    },
+    {
+        "userId": 10,
+        "name": "Clementina DuBuque",
+        "username": "Moriah.Stanton",
+        "email": "Rey.Padberg@karina.biz",
+        "weather": {
+            "main": "Clear",
+            "celsius": 11.939999999999998
+        },
+        "sale_summary": {
+            "total_units_sold": 142,
+            "total_revenue": 1283.6100000000001
+        }
+    }
+]

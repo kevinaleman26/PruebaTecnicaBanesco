@@ -2,7 +2,7 @@
 import pandas as pd
 from pathlib import Path
 
-def read_orders_csv(file_name: str = "python/orders.csv"):
+def read_orders_csv(file_name: str = "orders.csv"):
     """
     Lee un archivo CSV del directorio actual y lo carga en un DataFrame de Pandas.
 
