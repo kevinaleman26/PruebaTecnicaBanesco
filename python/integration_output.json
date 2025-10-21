@@ -6,7 +6,7 @@
         "email": "Sincere@april.biz",
         "weather": {
             "main": "Clouds",
-            "celsius": 12.79000000000002
+            "celsius": 13.100000000000023
         },
         "sale_summary": {
             "total_units_sold": 183,
@@ -20,7 +20,7 @@
         "email": "Shanna@melissa.tv",
         "weather": {
             "main": "Clouds",
-            "celsius": 6.350000000000023
+            "celsius": 8.400000000000034
         },
         "sale_summary": {
             "total_units_sold": 213,
@@ -34,7 +34,7 @@
         "email": "Nathan@yesenia.net",
         "weather": {
             "main": "Clouds",
-            "celsius": -5.769999999999982
+            "celsius": -10.149999999999977
         },
         "sale_summary": {
             "total_units_sold": 125,
@@ -48,7 +48,7 @@
         "email": "Julianne.OConner@kory.org",
         "weather": {
             "main": "Clear",
-            "celsius": 25.03000000000003
+            "celsius": 24.470000000000027
         },
         "sale_summary": {
             "total_units_sold": 281,
@@ -61,8 +61,8 @@
         "username": "Kamren",
         "email": "Lucio_Hettinger@annie.ca",
         "weather": {
-            "main": "Rain",
-            "celsius": 16.610000000000014
+            "main": "Clouds",
+            "celsius": 17.78000000000003
         },
         "sale_summary": {
             "total_units_sold": 396,
@@ -75,8 +75,8 @@
         "username": "Leopoldo_Corkery",
         "email": "Karley_Dach@jasper.info",
         "weather": {
-            "main": "Snow",
-            "celsius": -5.560000000000002
+            "main": "Clouds",
+            "celsius": -4.6200000000000045
         },
         "sale_summary": {
             "total_units_sold": 193,
@@ -89,8 +89,8 @@
         "username": "Elwyn.Skiles",
         "email": "Telly.Hoeger@billy.biz",
         "weather": {
-            "main": "Clear",
-            "celsius": 22.620000000000005
+            "main": "Clouds",
+            "celsius": 32.910000000000025
         },
         "sale_summary": {
             "total_units_sold": 173,
@@ -104,7 +104,7 @@
         "email": "Sherwood@rosamond.me",
         "weather": {
             "main": "Rain",
-            "celsius": 24.08000000000004
+            "celsius": 23.75
         },
         "sale_summary": {
             "total_units_sold": 170,
@@ -118,7 +118,7 @@
         "email": "Chaim_McDermott@dana.io",
         "weather": {
             "main": "Clouds",
-            "celsius": 26.420000000000016
+            "celsius": 26.260000000000048
         },
         "sale_summary": {
             "total_units_sold": 156,
@@ -131,8 +131,8 @@
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
         "weather": {
-            "main": "Clear",
-            "celsius": 11.939999999999998
+            "main": "Clouds",
+            "celsius": 13.580000000000041
         },
         "sale_summary": {
             "total_units_sold": 142,

@@ -6,7 +6,7 @@ class SaleSummary:
     total_units_sold: int
     total_revenue: float
 
-    def __init__(self, sale_list: list[Sale]):
+    def __init__(self, sale_list):
         unit_list = []
         total_list = []
         for usuario in sale_list.values.tolist():
@@ -16,10 +16,10 @@ class SaleSummary:
         self.total_units_sold = self.total_units(unit_list)
         self.total_revenue = self.total_revenue(total_list)
         
-    def total_units(self, unit_list: list[int]) -> int:
+    def total_units(self, unit_list):
         return sum(unit_list)
     
-    def total_revenue(self, total_list: list[float]) -> float:
+    def total_revenue(self, total_list):
         return sum(total_list)
         
 

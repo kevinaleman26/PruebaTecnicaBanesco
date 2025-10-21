@@ -12,7 +12,7 @@ class SalesUsuarios:
     weather: Weather
     sale_summary: SaleSummary
 
-    def __init__(self, usuario: Usuario, sale_summary: SaleSummary ):
+    def __init__(self, usuario, sale_summary ):
         self.userId = usuario.id
         self.name = usuario.name
         self.username = usuario.username
